@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-meal-plan.ts": {
+      "maxDuration": 300
+    }
+  }
+}
