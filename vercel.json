@@ -1,4 +1,6 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
   "functions": {
     "api/generate-meal-plan.ts": {
       "maxDuration": 300
